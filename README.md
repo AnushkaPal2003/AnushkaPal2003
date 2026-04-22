@@ -20,6 +20,7 @@ B.Sc. Mathematics graduate (University of Delhi) currently completing a Data Sci
 
 | Project | What it does | Stack |
 |---|---|---|
+| 📄 [Chat with PDF](https://github.com/AnushkaPal2003/chat-with-pdf) | Ask questions from your PDF files using RAG and LLM | LangChain · ChromaDB · SentenceTransformer · Groq |
 | 🔴 [Credit Card Fraud Detection](https://github.com/AnushkaPal2003/Credit-Card-Fraud-Detection) | Unsupervised fraud detection on imbalanced data, deployed end-to-end | Isolation Forest · MLflow · Docker · Streamlit |
 | 📉 [Telecom Customer Churn](https://github.com/AnushkaPal2003/Telecom-Customer-Churn) | Compared 8 classifiers, 83.9% accuracy, retention strategy recommendations | Python · Scikit-learn · XGBoost · Random Forest |
 | 🧪 [A/B Testing – Landing Page](https://github.com/AnushkaPal2003/AB-Testing-) | Two-proportion Z-test on 35K+ conversions, visualised results | Python · Statsmodels · Matplotlib · Seaborn |
