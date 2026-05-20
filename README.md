@@ -47,7 +47,7 @@ B.Sc. Mathematics graduate (University of Delhi) currently completing a Data Sci
 
 **BI & Viz** &nbsp; ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
-**Gen-AI** &nbsp; ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat) ![ChromaDB](https://img.shields.io/badge/ChromaDB-7289DA?style=flat) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat)
+**Gen-AI** &nbsp; ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat) ![ChromaDB](https://img.shields.io/badge/ChromaDB-7289DA?style=flat) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat) ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat)
 
 **Cloud** &nbsp; ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
