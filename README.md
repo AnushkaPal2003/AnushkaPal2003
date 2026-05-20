@@ -21,6 +21,7 @@ B.Sc. Mathematics graduate (University of Delhi) currently completing a Data Sci
 | Project | What it does | Stack |
 |---|---|---|
 | 📄 [Chat with PDF](https://github.com/AnushkaPal2003/Chat-with-your-PDF) | RAG pipeline enabling semantic Q&A across PDF documents — 4 stages: ingestion, chunking, embedding, retrieval | LangChain · ChromaDB · SentenceTransformer · Groq |
+| 🧪 [PromptForge](https://github.com/AnushkaPal2003/promptforge) | Multi-provider prompt evaluation tool comparing LLM reasoning across models | Python · Streamlit · Groq · OpenAI |
 | 🔴 [Credit Card Fraud Detection](https://github.com/AnushkaPal2003/Credit-Card-Fraud-Detection) | Unsupervised fraud detection on imbalanced data — ROC-AUC 0.9539, logged with MLflow, deployed end-to-end | Isolation Forest · MLflow · Docker · Streamlit |
 | 🏠 [Boston Real Estate Price Prediction](https://github.com/AnushkaPal2003/Boston-Estate-Price-Predictor) | 10 regression models compared — XGBoost best (Test R² 0.888, CV R² 0.838), deployed as Streamlit app | Python · XGBoost · Scikit-learn · Streamlit |
 | 📉 [Telecom Customer Churn](https://github.com/AnushkaPal2003/Telecom-Churn) | 8 classifiers compared — Logistic Regression best (~82% accuracy), Streamlit deployment for real-time prediction | Python · Scikit-learn · Logistic Regression |
@@ -38,7 +39,6 @@ B.Sc. Mathematics graduate (University of Delhi) currently completing a Data Sci
 ---
 
 ## Tech stack
-
 **Languages** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **ML / DL** &nbsp; ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat) ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat)
@@ -47,7 +47,7 @@ B.Sc. Mathematics graduate (University of Delhi) currently completing a Data Sci
 
 **BI & Viz** &nbsp; ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
-**Gen-AI** &nbsp; ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat) ![ChromaDB](https://img.shields.io/badge/ChromaDB-7289DA?style=flat)
+**Gen-AI** &nbsp; ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat) ![ChromaDB](https://img.shields.io/badge/ChromaDB-7289DA?style=flat) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat)
 
 **Cloud** &nbsp; ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
